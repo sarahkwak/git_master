@@ -23,3 +23,5 @@ p [1,2,3,4,5, 9, 10].find { |v| v * v > 30 }
 
 
 # INTERUPTIONNNNNNNN
+
+# 2nd INTERRUPTIONTTTT
