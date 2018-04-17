@@ -23,3 +23,6 @@ p [1,2,3,4,5, 9, 10].find { |v| v * v > 30 }
 
 
 # MIDDLE MAN don't know hwat's up
+
+
+# MIDDLE TWO
