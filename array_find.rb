@@ -22,6 +22,15 @@ p [1,2,3,4,5, 9, 10].find { |v| v * v > 30 }
 # The Doctor Is In: Using checkups to find bugs in production
 
 
+# MIDDLE MAN don't know hwat's up
+
+
+# MIDDLE TWO
+
+
+# MORE MIDDLEEEEE
+
 # INTERUPTIONNNNNNNN
 
 # 2nd INTERRUPTIONTTTT
+
